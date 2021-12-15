@@ -1,0 +1,37 @@
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://fonts.googleapis.com/css2?family=Gwendolyn&display=swap" rel="stylesheet">
+
+
+.text-primary{
+    font-family: 'Radley' 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text-secondary {
+    font-family: 'LondrinaSolid' ,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+}
+
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 24px;
+}
+h3{
+    font-size: 150px;
+    transform: translateY(12.5%);
+}
+
+h4{
+    font-size: 35px;
+}
+h5{
+    font-size: 70px;
+    transform: translateY(12.5%);
+}
+
+.link{
+    font-size: 35px;
+}
+
